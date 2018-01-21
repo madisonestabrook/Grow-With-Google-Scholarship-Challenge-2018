@@ -1,4 +1,4 @@
-#Grow With Google Scholarship Challenge 2018 #
+# Grow With Google Scholarship Challenge 2018 #
 _By *Madison Estabrook*_
 ## Introduction ##
 I was lucky enough to be selected for [*Udacity's*](udacity.com) _Grow With Google Challenge Scholarship_. This repo covers lessons 1-22 in the [_Grow With Google challenge Scholarship course_](https://classroom.udacity.com/courses/ud304-gwg).
