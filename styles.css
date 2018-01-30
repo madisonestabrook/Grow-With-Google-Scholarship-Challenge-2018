@@ -1,0 +1,33 @@
+/* Coding by Madison A. Estabrook */
+h1 {
+    font-family: "Courier New", Courier, monospace;
+    color: #2a124f;
+    text-align: center;
+    font-weight: bold;
+  }
+  ul {
+    list-style: none;
+  }
+  .paragraph {
+    font-family: "Courier New", Courier, monospace;
+  }
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .card {
+    border: 10px solid black;
+    width: 365px;
+    height: 625px;
+    padding: 10px;
+  }
+  img {
+    padding: 20px;
+  }
+  .background {
+    background: linear-gradient(lightblue, pink);
+  }
+  
