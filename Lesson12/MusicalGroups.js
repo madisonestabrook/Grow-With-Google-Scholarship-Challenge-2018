@@ -1,0 +1,34 @@
+/*
+ * Programming Quiz: Musical Groups (3-3)
+ */
+
+// change the value of `musicians` to test your conditional statements
+var musicians = 1;
+
+if(musicians > 0 )
+    {
+        if (musicians === 1)
+        {
+            console.log("solo");
+        }
+        if (musicians === 2)
+        {
+            console.log("duet");
+        }
+        if (musicians === 3)
+        {
+            console.log("trio");
+        }
+        if (musicians === 4)
+        { 
+            console.log("quartet");
+        }
+        if (musicians > 4)
+        { 
+            console.log("this is a large group");
+    }
+    }
+else 
+{
+    console.log("not a group");
+}
