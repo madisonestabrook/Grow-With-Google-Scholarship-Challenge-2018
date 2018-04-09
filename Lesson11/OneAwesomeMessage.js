@@ -21,4 +21,4 @@ var firstName = "Madison";
 var interest = "Math"; 
 var hobby = "solve that which cannot be solved"; 
 var awesomeMessage = "Hi, my name is "  + firstName + ". I love " + interest + ". In my spare time, I like to " + hobby + ".";
-console.log(awesomeMessage)
+console.log(awesomeMessage);
